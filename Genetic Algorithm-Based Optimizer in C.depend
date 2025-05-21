@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747860708 source:c:\aqib\projects\projects c\code\genetic algorithm-based optimizer in c\genetic algorithm-based optimizer in c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
